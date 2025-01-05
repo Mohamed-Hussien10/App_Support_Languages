@@ -1,5 +1,5 @@
 # App_Support_Languages
-## Steps to Add Arabic Language Support
+## Steps to Add Arabic Language
 
 Follow these steps to enable Arabic language support in the app:
 
